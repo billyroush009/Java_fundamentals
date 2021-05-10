@@ -1,5 +1,7 @@
 # Java Basics
 
+This was created as a learning tool and as something to possibly reference back to when working with Java. If run "as-is" it will only demonstrate some basic functionality of "enum". 
+
 ## Code
 This code is messy as I combined roughly a dozen or so concepts into one long program. The main bulk of "App.java" is commented out and each section is separated by a comment block similar to:
 
